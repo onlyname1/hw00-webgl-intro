@@ -13,7 +13,7 @@ import ShaderProgram, {Shader} from './rendering/gl/ShaderProgram';
 // This will be referred to by dat.GUI's functions that add GUI elements.
 const controls = {
   tesselations: 5,
-  color: [15, 113, 168, 1],
+  color: [15, 114, 168, 1],
   color2: [200, 200, 200, 1],
   'Load Scene': loadScene, // A function pointer, essentially
 };
